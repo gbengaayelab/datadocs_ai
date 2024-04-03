@@ -10,7 +10,7 @@ from langchain.callbacks import get_openai_callback
 from dotenv import load_dotenv
 
 # Load environment variables
-# load_dotenv()
+load_dotenv()
 
 # Render custom CSS for Bootstrap
 st.markdown("""
